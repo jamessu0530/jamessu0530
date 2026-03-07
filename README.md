@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm JamesSu</h1>
+<h3 align="center">哈摟我是蘇奕勳</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamessu0530&label=Profile%20views&color=0e75b6&style=flat" alt="jamessu0530" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamessu0530" alt="jamessu0530" /></a> </p>
+
+- 🔭 I’m currently working on [CARE專案](https://github.com/Yanagi-0912/CARE)
+
+- 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **jamessu2016@gmail.com**
 
