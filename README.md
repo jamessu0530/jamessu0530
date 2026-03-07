@@ -1,11 +1,5 @@
 # Hi , I'm James 
 
-### A passionate Python developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamessu0530&label=Profile views&color=0e75b6&style=flat" alt="jamessu0530" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamessu0530" alt="jamessu0530" /></a> </p>
-
 - 🔭 I'm currently working on **CARE project**
 
 - 🌱 I'm currently learning **flutter**
