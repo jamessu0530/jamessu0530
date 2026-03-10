@@ -4,14 +4,28 @@
 </p>
 
 - 🔭 I'm currently working on **CARE project**
+- 🌱 I'm currently learning **Flutter**
+- ♟ Chess.com **Rapid: 542 | Daily: 800 | Bullet: 222 | Blitz: 166**
 
-- 🌱 I'm currently learning **flutter**
+<h3 align="left">Chess Stats:</h3>
+<p align="left">
+  ♟ <strong>Chess.com</strong><br>
+  Rapid: <strong>542</strong><br>
+  Daily: <strong>800</strong><br>
+  Bullet: <strong>222</strong><br>
+  Blitz: <strong>166</strong><br>
+  Tactics Peak: <strong>583</strong><br>
+  <a href="https://www.chess.com/member/jamessu2016" target="_blank">View my Chess.com profile</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jamessu0530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamessu0530" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-su-832bb2324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-su-832bb2324" height="30" width="40" /></a>
 <a href="https://medium.com/@jamessu2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamessu2016" height="30" width="40" /></a>
+<a href="https://www.chess.com/member/jamessu2016" target="blank">
+  <img align="center" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/php8ju0tq.png" alt="jamessu2016 chess.com" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +34,4 @@
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-su-832bb2324/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamessu2016@gmail.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-jamessu2016-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/jamessu2016)
