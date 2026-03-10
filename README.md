@@ -5,19 +5,6 @@
 
 - 🔭 I'm currently working on **CARE project**
 - 🌱 I'm currently learning **Flutter**
-- ♟ Chess.com **Rapid: 542 | Daily: 800 | Bullet: 222 | Blitz: 166**
-
-<h3 align="left">Chess Stats:</h3>
-<p align="left">
-  ♟ <strong>Chess.com</strong><br>
-  Rapid: <strong>542</strong><br>
-  Daily: <strong>800</strong><br>
-  Bullet: <strong>222</strong><br>
-  Blitz: <strong>166</strong><br>
-  Tactics Peak: <strong>583</strong><br>
-  <a href="https://www.chess.com/member/jamessu2016" target="_blank">View my Chess.com profile</a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/jamessu0530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamessu0530" height="30" width="40" /></a>
