@@ -32,9 +32,15 @@
 ### Connect with me
 
 <p align="left">
-<a href="https://github.com/jamessu0530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamessu0530" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james-su-832bb2324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-su-832bb2324" height="30" width="40" /></a>
-<a href="https://medium.com/@jamessu2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamessu2016" height="30" width="40" /></a>
+  <a href="https://github.com/jamessu0530" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamessu0530" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/james-su-832bb2324" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-su-832bb2324" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@jamessu2016" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamessu2016" height="30" width="40" />
+  </a>
 </p>
 
 ---
