@@ -15,7 +15,11 @@
 ### GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jamessu0530/jamessu0530/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamessu0530/jamessu0530/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamessu0530/jamessu0530/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamessu0530/jamessu0530/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -31,17 +35,9 @@
 
 ### Connect with me
 
-<p align="left">
-  <a href="https://github.com/jamessu0530" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jamessu0530" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/james-su-832bb2324" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-su-832bb2324" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@jamessu2016" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jamessu2016" height="30" width="40" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamessu0530)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-su-832bb2324)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jamessu2016)
 
 ---
 
